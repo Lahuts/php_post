@@ -1,2 +1,2 @@
 # template : publier des articles 
-> By Militello Giuseppe - 2022 
+> By Lahuts - 2023 # php_post
